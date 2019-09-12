@@ -5,12 +5,38 @@
     <link>https://marcosvital.github.io/</link>
       <atom:link href="https://marcosvital.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marcosvital.github.io/img/icon-192.png</url>
+      <url>https://marcosvital.github.io/img/marcos.jpg</url>
       <title>Academic</title>
       <link>https://marcosvital.github.io/</link>
     </image>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://marcosvital.github.io/teaching/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://marcosvital.github.io/teaching/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Regular undergrad courses at UFAL:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Biostatistics;&lt;/li&gt;
+&lt;li&gt;Biomathematics;&lt;/li&gt;
+&lt;li&gt;Ecology;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Regular grad courses at UFAL:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experimental Design and Data Analysis in Biology;&lt;/li&gt;
+&lt;li&gt;Multivariate Statistics;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also teach on demand courses on Biostatistics, Data Analysis and R Language.&lt;/p&gt;
+
+&lt;p&gt;Some material from my courses can be found on &lt;a href=&#34;https://github.com/marcosvital&#34; target=&#34;_blank&#34;&gt;my GitHub profile&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
