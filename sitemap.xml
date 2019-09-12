@@ -3,17 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://marcosvital.github.io/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marcosvital.github.io/teaching/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://marcosvital.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marcosvital.github.io/</loc>
   </url>
   
   <url>
